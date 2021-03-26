@@ -3,15 +3,12 @@ package com.yonfetti.data_format;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.text.SimpleDateFormat;
-import java.time.LocalDate;
-import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 import java.text.ParseException;
 
 import org.json.simple.JSONArray;
@@ -153,7 +150,7 @@ public class App {
 	
     public static boolean isDate(String dateStr) {
         try {
-        	Date inDate = new SimpleDateFormat(rawDate).parse(dateStr);
+        	new SimpleDateFormat(rawDate).parse(dateStr);
         } catch (ParseException e) {
             return false;
         }
