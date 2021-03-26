@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="erep-maven-legacy.snapshots" />
+      <option name="name" value="erep-maven-legacy.snapshots" />
+      <option name="url" value="http://nexus.dev.utah.gov:8081/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-central" />
+      <option name="name" value="maven-central" />
+      <option name="url" value="https://erep-maven.dev.utah.gov/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="erep-maven-legacy" />
+      <option name="name" value="erep-maven-legacy" />
+      <option name="url" value="http://nexus.dev.utah.gov:8081/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="liferay-public-releases" />
+      <option name="name" value="Liferay Public Releases" />
+      <option name="url" value="https://repository.liferay.com/nexus/content/repositories/liferay-public-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repository.spring.release" />
+      <option name="name" value="Spring GA Repository" />
+      <option name="url" value="http://repo.spring.io/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="erep-maven-public" />
+      <option name="name" value="erep-maven-public" />
+      <option name="url" value="https://erep-maven.dev.utah.gov/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="vaadin-prereleases" />
+      <option name="name" value="Vaadin Pre-releases" />
+      <option name="url" value="https://maven.vaadin.com/vaadin-prereleases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dws-maven-public" />
+      <option name="name" value="dws-maven-public" />
+      <option name="url" value="https://devops.dws.utah.gov/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="erep-maven-legacy.thirdparty" />
+      <option name="name" value="erep-maven-legacy.thirdparty" />
+      <option name="url" value="http://nexus.dev.utah.gov:8081/nexus/content/repositories/thirdparty/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="vaadin-addons" />
+      <option name="name" value="vaadin-addons" />
+      <option name="url" value="http://maven.vaadin.com/vaadin-addons" />
+    </remote-repository>
+  </component>
+</project>
